@@ -1,0 +1,1 @@
+<view><button size="mini" type="primary" data-event-opts="{{[['tap',[['login',['$event']]]]]}}" bindtap="__e">一键登录</button><button size="mini" type="default" data-event-opts="{{[['tap',[['getUserInfo',['$event']]]]]}}" bindtap="__e">获取用户信息</button></view>

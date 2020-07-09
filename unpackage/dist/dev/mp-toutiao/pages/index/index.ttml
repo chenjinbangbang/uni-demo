@@ -1,0 +1,1 @@
+<view class="index"><button size="mini" type="primary" data-event-opts="{{[['tap',[['advertFn',['$event']]]]]}}" bindtap="__e">查看广告获取收益</button></view>

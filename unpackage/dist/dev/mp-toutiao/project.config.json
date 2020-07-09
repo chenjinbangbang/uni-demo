@@ -1,0 +1,11 @@
+{
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "postcss": false,
+    "minified": false,
+    "newFeature": true
+  },
+  "appid": "tt41a1371cde9b58f9",
+  "projectname": "uni-demo"
+}
